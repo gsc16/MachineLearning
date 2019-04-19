@@ -13,3 +13,5 @@ Combined problem 1 and problem 2 as well into this file.
 04/17/2019 5:56 PM: Updated the file with problem 4. 
 
 04/17/2019 11:34 PM: Corrected the code for T-SNE to show clusters properly
+
+04/19/2019 06:30 AM: Corrected code to implement heatmaps in problem 3 based on VGG19.
